@@ -1,4 +1,4 @@
-[PEGAR AQUÍ EL ENLACE AL REPOSITORIO DE GITHUB]
+https://github.com/samuelcardenasgarcia377-prog/st-2026-2-tarea-1-herramientas-Cardenas-Samuel.git
 
 # Tarea 1 — Caja de herramientas de pronóstico
 
